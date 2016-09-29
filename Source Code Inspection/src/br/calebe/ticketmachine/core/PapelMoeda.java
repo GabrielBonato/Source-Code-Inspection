@@ -20,5 +20,6 @@ public class PapelMoeda {
 
     public int getQuantidade() {
         return quantidade;
+        
     }
 }
